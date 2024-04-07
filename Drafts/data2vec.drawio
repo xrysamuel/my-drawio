@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T13:57:20.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="9FMjfPwej79xzXzukp8e" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T14:11:10.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="4gcNCyXYLHgw9CMePrPu" version="24.2.1" type="github">
   <diagram name="第 1 页" id="q66TbeUEmXIvnhVCISni">
     <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -310,6 +310,9 @@
         </mxCell>
         <mxCell id="Fm8e2ZOpPMUsnApX25Jz-125" value="embedding for codebook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm8e2ZOpPMUsnApX25Jz-126" value="Pretraining predictive SSL model for speech" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="880" width="483" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
