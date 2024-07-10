@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T14:33:42.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="V53mxaS0z4FANPL32fQP" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T14:37:48.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="erivb__oopgSgfAxuC5B" version="24.6.3" type="github">
   <diagram name="第 1 页" id="CV4RmrmJ2TpC2ouBqf3E">
     <mxGraphModel dx="2605" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="1" shadow="0">
       <root>
@@ -446,6 +446,9 @@
         </mxCell>
         <mxCell id="JUw78qpSntqPIQoc-JbC-224" value="&lt;div&gt;&lt;b&gt;(batch_size, max_mel_len,&amp;nbsp;encoder_hidden)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=label;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130.92999999999998" y="910" width="283.75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JUw78qpSntqPIQoc-JbC-227" value="&lt;div&gt;在上面的结构中，pitch 和 energy 假定是 phoneme_level 的：&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;phoneme_level: &lt;/b&gt;Predictor 在 LengthRegulator 之前&lt;div&gt;&lt;b&gt;frame_level:&lt;/b&gt; Predictor 在 LengthRegulator 之后&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1034.5" width="361.88" height="65.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
