@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" modified="2024-12-27T05:37:34.370Z" version="24.4.6" etag="pUXdh-CvJXjRNJ53zfZj" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" modified="2024-12-27T05:40:30.468Z" version="24.4.6" etag="qZGku6ZeHlNPxI5FmNd3" type="github">
   <diagram name="第 1 页" id="i1QhH0rPRA2hifDkSosV">
     <mxGraphModel dx="1148" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="a9eeKcHGMqGuBWr7Spul-28" value="Active Song" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="270" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a9eeKcHGMqGuBWr7Spul-31" value="Audio Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a9eeKcHGMqGuBWr7Spul-31" value="Audio Sender" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="65" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9eeKcHGMqGuBWr7Spul-40" value="WebSocket" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -221,7 +221,7 @@
         <mxCell id="a0JB3z8DdEJ5U7OtH6zG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0JB3z8DdEJ5U7OtH6zG-33" target="a9eeKcHGMqGuBWr7Spul-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a0JB3z8DdEJ5U7OtH6zG-33" value="Codec&lt;br&gt;Decode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a0JB3z8DdEJ5U7OtH6zG-33" value="Audio&lt;div&gt;Receiver&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="62.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="a0JB3z8DdEJ5U7OtH6zG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0JB3z8DdEJ5U7OtH6zG-39" target="a9eeKcHGMqGuBWr7Spul-63">
@@ -238,6 +238,18 @@
         </mxCell>
         <mxCell id="a0JB3z8DdEJ5U7OtH6zG-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.volume_2;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="857.27" y="265" width="30.299999999999997" height="28.2" as="geometry" />
+        </mxCell>
+        <mxCell id="a0JB3z8DdEJ5U7OtH6zG-52" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="186.63" as="sourcePoint" />
+            <mxPoint x="842" y="186.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0JB3z8DdEJ5U7OtH6zG-53" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="235" as="sourcePoint" />
+            <mxPoint x="842" y="235" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
