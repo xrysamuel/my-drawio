@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" modified="2024-12-27T06:33:17.612Z" version="24.4.6" etag="eIqHwUeVh2dsgJgPAj_W" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" modified="2024-12-27T06:35:24.022Z" version="24.4.6" etag="YGPb47ZTP7MDveS91HlJ" type="github">
   <diagram name="第 1 页" id="i1QhH0rPRA2hifDkSosV">
-    <mxGraphModel dx="1243" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,7 +224,7 @@
         <mxCell id="a0JB3z8DdEJ5U7OtH6zG-33" value="Audio&lt;div&gt;Receiver&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="62.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="a0JB3z8DdEJ5U7OtH6zG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0JB3z8DdEJ5U7OtH6zG-39" target="a9eeKcHGMqGuBWr7Spul-63">
+        <mxCell id="a0JB3z8DdEJ5U7OtH6zG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="a0JB3z8DdEJ5U7OtH6zG-39" target="a9eeKcHGMqGuBWr7Spul-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a0JB3z8DdEJ5U7OtH6zG-39" value="Microphone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
