@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="i1QhH0rPRA2hifDkSosV">
-    <mxGraphModel dx="1435" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,16 +284,10 @@
             <mxPoint x="960" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="itTIuHhmYQ9NS_0j71GT-11" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="565" y="326" as="sourcePoint" />
-            <mxPoint x="565" y="176" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="itTIuHhmYQ9NS_0j71GT-12" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="567.4200000000001" y="177.16000000000003" as="sourcePoint" />
-            <mxPoint x="700" y="177.16000000000003" as="targetPoint" />
+            <mxPoint x="567.4200000000001" y="250.00000000000003" as="sourcePoint" />
+            <mxPoint x="700" y="250.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="itTIuHhmYQ9NS_0j71GT-13" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" edge="1" parent="1">
@@ -328,8 +322,8 @@
         </mxCell>
         <mxCell id="itTIuHhmYQ9NS_0j71GT-18" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="703" y="325" as="sourcePoint" />
-            <mxPoint x="703" y="175" as="targetPoint" />
+            <mxPoint x="700" y="326" as="sourcePoint" />
+            <mxPoint x="700" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="itTIuHhmYQ9NS_0j71GT-23" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=70;" edge="1" parent="1">
@@ -364,6 +358,12 @@
         </mxCell>
         <mxCell id="itTIuHhmYQ9NS_0j71GT-29" value="Audio Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#c26a67, #ededed);fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="15" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="itTIuHhmYQ9NS_0j71GT-30" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="326" as="sourcePoint" />
+            <mxPoint x="564" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
